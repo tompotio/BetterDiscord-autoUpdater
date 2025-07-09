@@ -1,0 +1,30 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Installer build folders
+dist/
+build/
+*.spec
+
+# Virtual environments
+venv/
+.env/
+
+# VS Code settings
+.vscode/
+
+# Cache and logs
+cache/
+*.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Compiled icon caches
+*.ico
+
+# PyInstaller artifacts
+*.exe
