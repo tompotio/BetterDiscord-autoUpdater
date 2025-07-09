@@ -128,12 +128,7 @@ Compiled executables will be provided [in the Releases section](https://github.c
 
 ---
 
-## 👤 Author
+## 🤝 Contributions
 
-Maintained by [Tompotio](https://github.com/Tompotio)
-
----
-
-## ⚠️ Disclaimer
-
-This project modifies Discord using third-party tooling (BetterDiscord). This may violate Discord’s Terms of Service. Use at your own risk.
+Contributions are welcome and appreciated.  
+Feel free to open issues, suggest enhancements, or submit pull requests — I'd be grateful!
