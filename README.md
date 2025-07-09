@@ -1,7 +1,6 @@
 # BetterDiscord Auto-Updater
 
-> Automatically reinstalls BetterDiscord after each Discord update — no user input needed (installer still shows UI).
-
+> Automatically reinstalls BetterDiscord after each Discord update.
 ![banner](https://dummyimage.com/800x180/5d3eff/ffffff&text=BetterDiscord+Auto-Updater)
 
 ---
