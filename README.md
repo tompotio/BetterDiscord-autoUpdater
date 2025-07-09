@@ -9,7 +9,6 @@
 
 - Detects when Discord updates to a new version
 - Automatically downloads the latest BetterDiscord installer from GitHub
-- Validates the installer file (integrity check)
 - Launches the installer automatically
 - Restarts Discord only if it was already running
 - Saves version state to skip unnecessary reinstalls
